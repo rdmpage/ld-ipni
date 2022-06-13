@@ -1,2 +1,7 @@
 /vendor/
 .DS_Store
+
+/junk/
+
+/tmp/
+!/tmp/README.md
